@@ -422,16 +422,12 @@ img {
         text-transform: uppercase;      
 }
 .footer-text {
-    color: var(--CLOUD, #F4F4FD);
-        /* Body */
-        font-family: "Raleway", sans-serif;
+    color: #F4F4FD;
+       
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
         line-height: 24px;
-        /* 150% */
         letter-spacing: 0.32px;
         padding-top: 17,5px;
-        padding-left: 156px;
-        padding-bottom: 100px;
+        margin-left: 156px;
+        
 }
